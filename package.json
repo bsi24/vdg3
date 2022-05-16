@@ -1,0 +1,24 @@
+{
+  "name": "vdg3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "@kyvg/vue3-notification": "^2.3.4",
+    "element-plus": "^1.2.0-beta.3",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
